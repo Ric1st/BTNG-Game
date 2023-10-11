@@ -1,0 +1,14 @@
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\bin\Debug\net7.0\Tugas.exe
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\bin\Debug\net7.0\Tugas.deps.json
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\bin\Debug\net7.0\Tugas.runtimeconfig.json
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\bin\Debug\net7.0\Tugas.dll
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\bin\Debug\net7.0\Tugas.pdb
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfoInputs.cache
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfo.cs
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.dll
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\refint\Tugas.dll
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.pdb
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\Tugas.genruntimeconfig.cache
+C:\Users\MSI PRESTIGE\Desktop\BTNG\Tugas\obj\Debug\net7.0\ref\Tugas.dll
